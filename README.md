@@ -26,7 +26,7 @@
   
 </ol>
 
-<p>Before using or modifying this code for any significant purpose, please contact me first. This will help me stay informed about how my code is being used. My intention with this code is solely for educational and developmental purposes. It should not be used in production environments or for any other purpose without thorough testing and validation :)</p>
+<p>But before using or modifying this code for any significant purpose, please contact me first. This will help me stay informed about how my code is being used. My intention with this code is solely for educational and developmental purposes. It should not be used in production environments or for any other purpose without thorough testing and validation :)</p>
 
 <h3 align="center">=== THANK YOU FOR COMING ===</h3>
 
