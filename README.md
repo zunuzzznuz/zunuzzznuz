@@ -2,7 +2,7 @@
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR5FINYzkkNR80f9MlwtWDZf3yksgO-h7oWcDeqhBXaf7q0cUhw8gZaZcyxr1Y5KwBcFuuKfIcBsKx_EKic_XrODwJlIDoVUeupAq_2emLOM1u8Y9P4XJ1XbW7k3kquoxO9Q_J9YvxI1J3CivRYOUQwj8hsI-MNu_VwejKeZNhreWa_UvOomEp2rsJhnRE/w602-h339/Logo44%20(1).gif" alt="MasterHead" width="600"/>
 </p>
 <h1 align="center">NUZ <3 </h1>
-<h3 align="center">Craft a Solution, Not Destruction</h3>
+<h3 align="center"></h3>
 </p>
 
 <h3 align="left">Im using...</h3>
